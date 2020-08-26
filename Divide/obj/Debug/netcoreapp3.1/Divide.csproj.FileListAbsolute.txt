@@ -1,0 +1,13 @@
+C:\Users\HP\Divide\bin\Debug\netcoreapp3.1\Divide.exe
+C:\Users\HP\Divide\bin\Debug\netcoreapp3.1\Divide.deps.json
+C:\Users\HP\Divide\bin\Debug\netcoreapp3.1\Divide.runtimeconfig.json
+C:\Users\HP\Divide\bin\Debug\netcoreapp3.1\Divide.runtimeconfig.dev.json
+C:\Users\HP\Divide\bin\Debug\netcoreapp3.1\Divide.dll
+C:\Users\HP\Divide\bin\Debug\netcoreapp3.1\Divide.pdb
+C:\Users\HP\Divide\obj\Debug\netcoreapp3.1\Divide.csprojAssemblyReference.cache
+C:\Users\HP\Divide\obj\Debug\netcoreapp3.1\Divide.csproj.CoreCompileInputs.cache
+C:\Users\HP\Divide\obj\Debug\netcoreapp3.1\Divide.AssemblyInfoInputs.cache
+C:\Users\HP\Divide\obj\Debug\netcoreapp3.1\Divide.AssemblyInfo.cs
+C:\Users\HP\Divide\obj\Debug\netcoreapp3.1\Divide.dll
+C:\Users\HP\Divide\obj\Debug\netcoreapp3.1\Divide.pdb
+C:\Users\HP\Divide\obj\Debug\netcoreapp3.1\Divide.genruntimeconfig.cache

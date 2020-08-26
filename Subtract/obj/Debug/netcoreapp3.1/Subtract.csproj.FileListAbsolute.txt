@@ -1,0 +1,13 @@
+C:\Users\HP\Subtract\obj\Debug\netcoreapp3.1\Subtract.csprojAssemblyReference.cache
+C:\Users\HP\Subtract\obj\Debug\netcoreapp3.1\Subtract.csproj.CoreCompileInputs.cache
+C:\Users\HP\Subtract\obj\Debug\netcoreapp3.1\Subtract.AssemblyInfoInputs.cache
+C:\Users\HP\Subtract\obj\Debug\netcoreapp3.1\Subtract.AssemblyInfo.cs
+C:\Users\HP\Subtract\bin\Debug\netcoreapp3.1\Subtract.exe
+C:\Users\HP\Subtract\bin\Debug\netcoreapp3.1\Subtract.deps.json
+C:\Users\HP\Subtract\bin\Debug\netcoreapp3.1\Subtract.runtimeconfig.json
+C:\Users\HP\Subtract\bin\Debug\netcoreapp3.1\Subtract.runtimeconfig.dev.json
+C:\Users\HP\Subtract\bin\Debug\netcoreapp3.1\Subtract.dll
+C:\Users\HP\Subtract\bin\Debug\netcoreapp3.1\Subtract.pdb
+C:\Users\HP\Subtract\obj\Debug\netcoreapp3.1\Subtract.dll
+C:\Users\HP\Subtract\obj\Debug\netcoreapp3.1\Subtract.pdb
+C:\Users\HP\Subtract\obj\Debug\netcoreapp3.1\Subtract.genruntimeconfig.cache
